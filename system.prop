@@ -1,5 +1,5 @@
-ro.display.series=Samsung Galaxy A10
-ro.product.board=universal7884B
+ro.display.series=Samsung Galaxy M10
+ro.product.board=universal7870
 ro.board.platform=exynos5
 sys.usb.controller=13600000.dwc3
-ro.boot.bootdevice=13500000.dwmmc0
+ro.boot.bootdevice=13540000.dwmmc0
